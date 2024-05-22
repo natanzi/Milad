@@ -13,7 +13,7 @@
 
 - 🤝 I’m looking for help with **OAIC**
 
-- 📝 I regularly write articles on www.natanzi.com/blog
+- 📝 I regularly write articles on [www.natanzi.com/blog](https://natanzi.com/weblog/)
 
 - 💬 Ask me about **5G, 6G, Security, Open RAN**
 
